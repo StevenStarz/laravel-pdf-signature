@@ -1,6 +1,6 @@
 ### Laravel PDF Signature + PDF.js + PDF Viewer.js + Fabric JS / Stamp Annotation
 
-![Image 1](https://github.com/StevenStarz/laravel-pdf-signature/blob/main/public/Your paragraph text.png)
+![Image 1](https://github.com/StevenStarz/laravel-pdf-signature/blob/main/public/0.png)
 
 ![Image 2](https://github.com/StevenStarz/laravel-pdf-signature/blob/main/public/2.png)
 
