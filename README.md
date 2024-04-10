@@ -1,10 +1,10 @@
 ### Laravel PDF Signature + PDF.js + PDF Viewer.js + Fabric JS / Stamp Annotation
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ad117d35-5038-4c07-959f-32be9097ebc8/4ee8d847-da30-4cf2-b421-5813bbd9ed01/Untitled.png)
+![Image 1](https://github.com/StevenStarz/laravel-pdf-signature/blob/main/public/Your paragraph text.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ad117d35-5038-4c07-959f-32be9097ebc8/13406723-f241-4d5d-ab56-01f170efb1ce/Untitled.png)
+![Image 2](https://github.com/StevenStarz/laravel-pdf-signature/blob/main/public/2.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ad117d35-5038-4c07-959f-32be9097ebc8/75975383-3642-4deb-82c4-ea05ff4e7ad8/Untitled.png)
+![Image 3](https://github.com/StevenStarz/laravel-pdf-signature/blob/main/public/3.png)
 
 Laravel PDF Signature, a tool created using PDF.js, PDF Viewer.js and Fabric JS, is designed to offer an efficient and convenient way to sign PDF documents. One of its key features is lazy loading, which makes it particularly suitable for handling large PDF files. This feature ensures that the tool only loads the necessary parts of the file, making it significantly faster and more efficient.
 
