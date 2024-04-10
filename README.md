@@ -2,10 +2,6 @@
 
 ![Image 1](https://github.com/StevenStarz/laravel-pdf-signature/blob/main/public/0.png)
 
-![Image 2](https://github.com/StevenStarz/laravel-pdf-signature/blob/main/public/2.png)
-
-![Image 3](https://github.com/StevenStarz/laravel-pdf-signature/blob/main/public/3.png)
-
 Laravel PDF Signature, a tool created using PDF.js, PDF Viewer.js and Fabric JS, is designed to offer an efficient and convenient way to sign PDF documents. One of its key features is lazy loading, which makes it particularly suitable for handling large PDF files. This feature ensures that the tool only loads the necessary parts of the file, making it significantly faster and more efficient.
 
 The tool offers both mobile and desktop versions, ensuring accessibility regardless of the device being used. This makes it easier for users to access and use the tool at their convenience, whether they're at their desk or on the go.
@@ -15,6 +11,14 @@ Another notable feature is the stamp annotation. Users can add a stamp annotatio
 The tool also provides the option to load with a file or with base64, offering flexibility in terms of how documents can be uploaded and processed. This is particularly useful for users who may have different preferences or requirements for uploading files.
 
 Finally, the Laravel PDF Signature tool allows for PDF downloads. Once a document has been signed or annotated as required, users can easily download the final, signed version for their records. This tool, built with Laravel, Fabric Js, PDF.js, and PDF Viewer.js, is a comprehensive solution for PDF signing needs.
+
+## Mobile Version
+![Image 2](https://github.com/StevenStarz/laravel-pdf-signature/blob/main/public/2.png)
+
+## Desktop Version
+![Image 3](https://github.com/StevenStarz/laravel-pdf-signature/blob/main/public/3.png)
+
+## Features & Build
 
 Features:
 - Load by Scroll / Lazy loading, suitable for BIG PDF Files
@@ -54,3 +58,16 @@ Load PDF from base64
 ```
 /base64
 ```
+
+### Support Us
+
+<!-- Sample of code generated --> 
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="RGQ8NSYPA59FL">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/pt_BR/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RGQ8NSYPA59FL)
+
