@@ -59,7 +59,7 @@ Load PDF from base64
 /base64
 ```
 
-### Support Us
+### Support Us at Paypall
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RGQ8NSYPA59FL)
+https://paypal.me/StevensClick
 
